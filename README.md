@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Brian Njoroge</h1>
-<h3 align="center">A skilled Data Scientist</h3>
+<h3 align="center">A skilled Data Scientist adept at cleaning, wrangling, visualizing & analyzing data. I also build machine learning models and perform statistical analysis</h3>
 
 - 🌱 I’m currently learning **Business Intelligence tools (Tableau & Power BI), Big Data Analytics & Deep Learning.**
 
-- 💬 Ask me about **Python, SQL, Machine Learning**
+- 💬 Ask me about **Python, SQL**
 
 - 📫 How to reach me **bsnjoroge@gmail.com**
 
