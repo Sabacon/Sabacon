@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Brian Njoroge</h1>
-<h3 align="center">A skilled Data Scientist adept at cleaning, wrangling, visualizing & analyzing data. I also build machine learning models and perform statistical analysis</h3>
+<h5 align="center">A skilled Data Scientist adept at cleaning, wrangling, visualizing & analyzing data. I also build machine learning models and perform statistical analysis</h5>
 
 - 🌱 I’m currently learning **Business Intelligence tools (Tableau & Power BI), Big Data Analytics & Deep Learning.**
 
